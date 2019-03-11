@@ -21,7 +21,7 @@ Better World Buddies uses demographic data to pair pen pals so that children can
 
 8. As a student, I want a blog feature where I can write a short public post about my experience with my buddy.
 
-###Stretch Goals
+### Stretch Goals
 
 1. As a teacher, I want to create a classroom network where I can see all of the students in my class and their buddies so that I can make sure they have all been matched and are participating.
 
